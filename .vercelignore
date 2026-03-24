@@ -1,0 +1,12 @@
+backend
+node_modules
+.git
+.env
+*.log
+.DS_Store
+.vscode
+.idea
+test_reports
+*.pyc
+__pycache__
+.pytest_cache
